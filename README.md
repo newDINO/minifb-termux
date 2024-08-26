@@ -1,3 +1,9 @@
+### minifb-termux
+A modified minifb to make it work in termux environment with termux x11.
+
+Original README:
+----------------
+
 [![Build Status](https://github.com/emoon/rust_minifb/workflows/CI/badge.svg)](https://github.com/emoon/rust_minifb/actions?workflow=CI)
 [![Crates.io](https://img.shields.io/crates/v/minifb.svg)](https://crates.io/crates/minifb)
 [![Documentation](https://docs.rs/minifb/badge.svg)](https://docs.rs/minifb)
